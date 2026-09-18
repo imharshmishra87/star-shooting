@@ -1,0 +1,6 @@
+{
+  "name": "Top-Down Space Shooter",
+  "description": "A classic retro top-down space shooter arcade game built with HTML5 Canvas and vanilla JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
